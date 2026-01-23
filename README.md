@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Mobile Application Developer from India</h3>
 
-- 🔭 I’m currently working on a **News Application**
+- 🔭 I’m currently working on my BTech Major project **Brain Tumor Detection System**
 
-- 🌱 I’m currently learning **Firebase, Spring Framework**
+<!-- 🌱 I’m currently learning **Firebase, Spring Framework**-->
 
 - 📫 How to reach me **upadhyayashish740@gmail.com**
 
