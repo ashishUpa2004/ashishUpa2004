@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Chat App**
 
-- 🌱 I’m currently learning **Firebase, Spring Framework**
+- 🌱 Learning **Firebase, Spring Framework**
 
 - 📫 How to reach me **upadhyayashish740@gmail.com**
 
